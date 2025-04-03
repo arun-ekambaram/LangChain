@@ -10,3 +10,6 @@ wikipedia
 langchain-text-splitters
 requests
 langchain-openai
+sentence_transformers
+langchain_huggingface
+tqdm
