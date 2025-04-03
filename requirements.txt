@@ -8,3 +8,5 @@ arxiv
 PyMuPDF
 wikipedia
 langchain-text-splitters
+requests
+langchain-openai
