@@ -13,3 +13,4 @@ langchain-openai
 sentence_transformers
 langchain_huggingface
 tqdm
+faiss-cpu
